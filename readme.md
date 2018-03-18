@@ -1,10 +1,10 @@
 # NBA Career Predictor
 
-##Project Description
+## Project Description
 
 NBA Career Predictor is a model that is used for predicting if a rookie NBA player is gonna have a successful game career for more than 5 years or not. This model mmakes use of Artificial Neural Networks.
 
-##Modules Required
+## Modules Required
 
 This project makes use of the following modules with the specified versions:
 numpy               version 1.13.3
@@ -13,7 +13,7 @@ pandas              version 0.20.3
 keras               version 2.1.3
 scikit-learn        version 0.19.1 
 
-##Software Requirements
+## Software Requirements
 
 This project makes use of Anaconda distrubution of following versions:
 anaconda-client     version 1.6.5
@@ -30,11 +30,11 @@ Please follow the following steps for setting up and running the ANN model :
 5. Make sure that the files ann.py and nba_logreg.csv are in the same folder.
 6. Run the program
 
-##Dataset Description
+## Dataset Description
 
 The CSV file contains data about different rookie NBA players. The column names are as follows :
 
-###Name        Description
+### Name        Description
 Name	       Player Name
 GP             Games Played
 MIN	       Minutes Played
